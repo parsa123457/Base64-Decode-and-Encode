@@ -11,5 +11,3 @@ How to download and run?
 1. git clone https://github.com/parsa123457/Base64-Decode-and-Encode.git
 2. cd Base64-Decode-and-Encode
 3. python3 code.py
-
--------------------------------------------------------------------------
